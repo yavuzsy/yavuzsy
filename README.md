@@ -30,17 +30,17 @@
 
 ### 🎨 My Design Tools
 > [![AdobeAI](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)]()
-> [![AdobePS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)]()
 > [![AdobeXD](https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg)]()
 > [![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg)]()
+> [![AdobePS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)]()
 
 ---
 
 ### ⚙️ My platforms
-> [![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg)]()
 > [![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg)]()
-> [![IOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg)]()
+> [![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg)]()
 > [![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg)]()
+> [![IOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg)]()
 
 ---
 
