@@ -30,9 +30,9 @@
 
 ### 🎨 My Design Tools
 > [![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg)]()
-> [![AdobeAI](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)]()
-> [![AdobePS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)]()
 > [![AdobeXD](https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg)]()
+> [![AdobePS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)]()
+> [![AdobeAI](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)]()
 
 ---
 
