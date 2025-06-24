@@ -7,8 +7,8 @@
 > [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)](https://www.instagram.com/yavuzsy_)
 > [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit3.svg)](https://www.reddit.com/user/_yavuzsy)
 
-- 🎮 <b>Game Designer</b> 🎮
-- 🎓 <b>BFA (senior year)</b> Digital Game Design
+- 🎮 <b>Game Designer / Unity Game Developer</b> 🎮
+- 🎓 <b>BFA</b> Digital Game Design
 - 📍 <b>İstanbul / Türkiye</b>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/dino.gif" style="display: block; opacity: 1;">
