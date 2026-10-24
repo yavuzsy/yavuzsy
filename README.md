@@ -1,11 +1,11 @@
 # 👋 Hi! I'm Yavuz
 
-> [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)](https://tr.linkedin.com/in/yavuzsy)
-> [![Be](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance3.svg)](https://www.behance.net/yavuzsy/)
-> [![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg)](https://x.com/yavuzsy_)
-> [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)]()
-> [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)](https://www.instagram.com/yavuzsy_)
-> [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit3.svg)](https://www.reddit.com/user/_yavuzsy)
+> [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)](https://tr.linkedin.com/in/yavuzsy) 
+> [![Be](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance3.svg)](https://www.behance.net/yavuzsy/) 
+> [![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg)](https://x.com/yavuzsy_) 
+> [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)]() 
+> [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)](https://www.instagram.com/yavuzsy_) 
+> [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit3.svg)](https://www.reddit.com/user/_yavuzsy) 
 
 - 🎮 <b>Game Designer / Unity Game Developer</b> 🎮
 - 🎓 <b>BFA</b> Digital Game Design
